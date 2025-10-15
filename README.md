@@ -79,9 +79,8 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
-```
-C:\Users\acer\Desktop\image gallery\igallery\star\imageapp\static\Screenshot 2025-10-15 133957.png
+<img width="1907" height="964" alt="Screenshot 2025-10-15 133957" src="https://github.com/user-attachments/assets/efbff104-7da1-4354-b5f7-d184c7f081ff" />
 
-```
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
